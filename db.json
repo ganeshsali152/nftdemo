@@ -2,24 +2,24 @@
     "tokens": [
         {
             "id": 0,
-            "description": "My NFT",
+            "description": "Dragon",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://i.picsum.photos/id/450/200/300.jpg?hmac=EAnz3Z3i5qXfaz54l0aegp_-5oN4HTwiZG828ZGD7GM",
-            "name": "Ganesh 0"
+            "name": "Dragon 0"
         },
         {
             "id": 1,
-            "description": "My NFT",
+            "description": "Dragon",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://lh3.googleusercontent.com/N7tiInCQo_TzDKzhnp93h3WNB9hszW-FJ9ZdDePOziKSwK69q-JsD6lzcYpm1mVJXNijHDHR9gcZEaPEfpZ_whsg=w600",
-            "name": "Ganesh 1"
+            "name": "Dragon 1"
         },
         {
             "id": 2,
-            "description": "My NFT",
+            "description": "Dragon",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://lh3.googleusercontent.com/O8RrJFwP8-vJn8ruSFIH7IK_XSL5u7f2dYRRsLshpBeXG_HU7z-6obhOCLoLCcOvQCxIBuzxxMMfLwUEQdrYVaiOqR8G2m6rGdEDOQ=w600",
-            "name": "Ganesh 2"
+            "name": "Dragon 2"
         }
     ]
 }
