@@ -20,6 +20,13 @@
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://lh3.googleusercontent.com/O8RrJFwP8-vJn8ruSFIH7IK_XSL5u7f2dYRRsLshpBeXG_HU7z-6obhOCLoLCcOvQCxIBuzxxMMfLwUEQdrYVaiOqR8G2m6rGdEDOQ=w600",
             "name": "Dragon 2"
+        },
+        {
+            "id": 3,
+            "description": "Dragon",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://cg.mypinata.cloud/ipfs/QmXXvAuPzdZUf1dr9a69WGGpWNvQ3Npd4GvNvRH3yiTHtg",
+            "name": "Dragon 3"
         }
     ]
 }
